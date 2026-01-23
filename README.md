@@ -30,7 +30,14 @@ I enjoy turning complex problems into elegant solutions through code.
 ## 💼 Projects  
 Here are a few highlights from my work:  
 - 📝 **Personalized Quiz Platform** – Making learning fun and engaging with a touch of personalization  
-- 📷 **Attendance Management System Using Face Recognition** – A smart system designed to streamline attendance tracking using AI  
+- 📷 **Attendance Management System Using Face Recognition** – A smart system designed to streamline attendance tracking using AI
+- 🎬 Netflix Movies & TV Shows – Power BI Dashboard
+📊 Interactive dashboard analyzing Netflix content by type, genre, rating, year, and country.
+
+---
+🔹 Tools: Power BI, Data Cleaning, Data Visualization  
+🔹 Skills: KPIs, Slicers, Dashboard Design  
+
 
 ---
 
