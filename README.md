@@ -62,7 +62,8 @@ Here are a few highlights from my work:
 
 ## 📬 Let's Connect  
 - 📧 Email: **akhilaohmkumar@gmail.com**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/akhila-ohmkumar-704576258)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/akhila-ohmkumar-704576258)
+- 👩‍💻 [Portfolio](https://akhila-ohmkumar.netlify.app/)
 
 ---
 
